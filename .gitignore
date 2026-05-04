@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv
+
+data/raw/
+data/generated/
+data/sqlite/
+data/duckdb/
+
+outputs/metric/
+outputs/plans/
+outputs/plots/
+
+.DS_Store
+.vscode/
